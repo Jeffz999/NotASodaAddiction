@@ -1,5 +1,11 @@
-HOMEMADE CITRUS SODA - ENHANCED RECIPE
-(With Oleo Saccharum Base)
+Lemon Lime Series
+V4 Mod 0 
+
+
+
+AUTHOR NOTE:
+   For first iteration use 1 tsp citric acid and add by quarters due to issue in finding correct amount
+
 
 INGREDIENTS:
 
@@ -12,9 +18,9 @@ Base Mixture (Oleo Saccharum):
 - Tiny pinch of salt (3-4 grains only)
 
 Flavor Enhancers:
-- 1 teaspoon citric acid powder
+- 1/2 teaspoon citric acid powder
 - 1 teaspoon pure vanilla extract
-- 2 tablespoons warm water (for citric acid solution)
+- 1 tablespoon warm water (for citric acid solution)
 
 Extras:
 - Soda water (chilled)
@@ -37,7 +43,7 @@ DETAILED INSTRUCTIONS:
    - Let sit for 24 hours at room temperature
 
 3. Citric Acid Solution Preparation (Day 2):
-   - Dissolve 1 teaspoon citric acid in 2 tablespoons warm water
+   - Dissolve 1/2 teaspoon citric acid in 1 tablespoon warm water
    - Stir until completely dissolved
    - Set aside
 
