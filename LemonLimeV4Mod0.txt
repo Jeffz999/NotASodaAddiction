@@ -5,6 +5,7 @@ V4 Mod 0
 
 AUTHOR NOTE:
    For first iteration use 1 tsp citric acid and add by quarters due to issue in finding correct amount
+   For first iteration start with 1 cup of citrus juice
 
 
 INGREDIENTS:
@@ -45,21 +46,27 @@ DETAILED INSTRUCTIONS:
    - Stir until completely dissolved
    - Set aside
 
-4. Processing (Day 2):
-   - Transfer the peel-sugar mixture to a saucepan
-   - Add 1 cup water
-   - Bring to a gentle simmer (small bubbles, not rolling boil)
-   - Reduce heat to low immediately
-   - Let reduce for 3-5 minutes, stirring occasionally
-   - Watch for slight thickening but avoid any browning
-   - Add honey and stir
-   - Remove from heat
+4. Initial Processing (Day 2):
+   - Strain the oleo saccharum liquid through a fine-mesh strainer into a bowl
+   - Set aside this strained liquid (contains pure oil-sugar essence)
+   - Keep the used peels in the strainer temporarily
+   - Note: Don't press/squeeze peels yet
 
-5. Straining and Mixing:
-   - Strain the mixture through a fine-mesh strainer
-   - Sprinkle the tiny pinch of salt
-   - Juice all the peeled citrus fruits
-   - Add 50-75% of citrus juice to the strained syrup
+   Secondary Extraction:
+   - Heat 1 cup water to boil
+   - Place the used peels in a heat-safe bowl
+   - Pour the hot water over the peels
+   - Stir gently for 30 seconds
+   - Strain this hot extraction through fine-mesh strainer
+   - Gently press peels with back of spoon to release remaining liquid
+   - Add honey and stir until dissolved while hot
+   - Let this extraction cool to room temperature
+
+5. Additional Mixing:
+   - Combine the original oleo saccharum liquid with the cooled extraction
+   - Add tiny pinch of salt
+   - Juice the peeled citrus fruits
+   - Add 1/2 cup to 2 cups citrus juice
    - Add vanilla extract
    - Add citric acid solution starting with half (taste and adjust)
    - Stir well to combine
